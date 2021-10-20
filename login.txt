@@ -1,2 +1,4 @@
-Should be conflict with logout!
+Conflicts 
+
+were resolved!
 This is login functionality!
