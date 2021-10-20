@@ -1,4 +1,2 @@
-Conflicts 
-
-were resolved!
+Conflicts were resolved!
 This is login functionality!
